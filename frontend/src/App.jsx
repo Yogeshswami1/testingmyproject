@@ -31,7 +31,7 @@ function App() {
     <div className="app">
       <div className="card">
         <h2>🚀 MERN Todo</h2>
-        <p className="subtitle">Simple • Fast • Cloud Ready+</p>
+        <p className="subtitle">Simple • Fast • Cloud Ready+++</p>
 
         <div className="input-group">
           <input
